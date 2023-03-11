@@ -5,10 +5,15 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CodeToImpactNew)
 
 .env content
+
 NODE_ENV = development
+
 PORT = 8000
+
 MONGO_URI = mongodb uri
+
 JWT_SECRET = abc123
+
 Node version
 Make sure your node version is 16.x
 
