@@ -5,7 +5,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CodeToImpactNew)
 
 ## Project Description:
-
+Building a website that summarizes the respective information:
+1. Investments
+2. Portfolio (Incorporated analytics and past trends)
+3. Consumer markets
 
 
 ## Important details
