@@ -3,7 +3,7 @@
 In this repo, it contains all competitions I had taken part in before. But some codes are unavailable.
 
 | Competition Name | Position | Application | Code Availability |
-| ------------- | ------------- | ------------- | ------------- |
+| :---: | :---: | :---: | :---: |
 | CitiHackOver 2022  | 1st Place  | Wealth Buddy App | Available |
 | Visa internal hackathon | 1st Place | Combination of solutions on instagram to boost promoting of offers| Unavailable | 
 | Accenture Pitch Competition | 1st Place  | Bring your own food restaurant app | Unavailable |
