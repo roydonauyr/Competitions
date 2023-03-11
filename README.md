@@ -1,3 +1,11 @@
+# In this repo, it contains all competitions I had taken part in before
+
+| Competition Name  | Position | Application |
+| ------------- | ------------- | ------------- |
+| CitiHackOver 2022  | 1st Place  | Wealth Buddy App |
+| GIC CodeToImpact  | Participant  | Investment/Portfolio website |
+| Goldman ESG Competition | Finalist  | ESG investing application |
+
 # 1. Wealth Buddy Web Application
 ![GitHub](https://img.shields.io/github/license/Interstellarkai/Eternals)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Interstellarkai/Eternals)
