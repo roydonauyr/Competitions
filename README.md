@@ -4,6 +4,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CodeToImpactNew)
 ![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CodeToImpactNew)
 
+## Project Description:
+
+
+
+## Important details
 .env content
 
 NODE_ENV = development
