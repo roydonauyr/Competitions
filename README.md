@@ -116,8 +116,7 @@ npm install
 npm run start
 
 # 3. Goldman-Sach-ESG-Comp
-![GitHub](https://img.shields.io/github/license/Interstellarkai/Goldman-Sach-ESG-Comp
-)
+![GitHub](https://img.shields.io/github/license/Interstellarkai/Goldman-Sach-ESG-Comp)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Interstellarkai/Goldman-Sach-ESG-Comp)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Interstellarkai/Goldman-Sach-ESG-Comp)
 ![GitHub language count](https://img.shields.io/github/languages/count/Interstellarkai/Goldman-Sach-ESG-Comp)
