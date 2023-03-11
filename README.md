@@ -1,10 +1,15 @@
-# In this repo, it contains all competitions I had taken part in before
+# Introduction
 
-| Competition Name  | Position | Application |
-| ------------- | ------------- | ------------- |
-| CitiHackOver 2022  | 1st Place  | Wealth Buddy App |
-| GIC CodeToImpact  | Participant  | Investment/Portfolio website |
-| Goldman ESG Competition | Finalist  | ESG investing application |
+In this repo, it contains all competitions I had taken part in before. But some codes are unavailable.
+
+| Competition Name  | Position | Application | Code availability |
+| ------------- | ------------- | ------------- | ------------- |
+| CitiHackOver 2022  | 1st Place  | Wealth Buddy App | Available |
+| Visa internal hackathon | 1st Place | Combination of solutions on instagram to boost promoting of offers| Unavailable | 
+| Accenture Pitch Competition | 1st Place  | Bring your own food restaurant app | Unavailable |
+| JunctionX Asia Hackathon | First Runner Up | Reflection website | Unavailable |
+| Goldman ESG Competition | Finalist  | ESG investing application | Available |
+| GIC CodeToImpact  | Participant  | Investment/Portfolio website | Available |
 
 # 1. Wealth Buddy Web Application
 ![GitHub](https://img.shields.io/github/license/Interstellarkai/Eternals)
@@ -76,54 +81,7 @@ http://0.0.0.0:3000/
 ## Support
 If you like the work we do, show your appreciation by 'FORK', 'STAR' and 'SHARE'.
 
-
-
-# 2.CodeToImpact
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CodeToImpactNew)
-![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CodeToImpactNew)
-![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CodeToImpactNew)
-![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CodeToImpactNew)
-
-## Project Description:
-Building a website that summarizes the respective information:
-1. Investments
-2. Portfolio (Incorporated analytics and past trends)
-3. Consumer markets
-
-
-## Important details
-.env content
-
-NODE_ENV = development
-
-PORT = 8000
-
-MONGO_URI = mongodb uri
-
-JWT_SECRET = abc123
-
-Node version:
-
-Make sure your node version is 16.x
-
-## Development process
-Work on new features on a new branch
-Before commiting, make sure to check if there is linting errors and fixed it
-Create a PR to main branch
-Get one people to review your PR before merging
-to run local development server
-npm install
-
-npm run dev
-
-to run local frontend server
-cd client
-
-npm install
-
-npm run start
-
-# 3. Goldman-Sach-ESG-Comp
+# 2. Goldman-Sach-ESG-Comp
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/Goldman-Sach-ESG-Competition)
 ![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/Goldman-Sach-ESG-Competition)
 ![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/Goldman-Sach-ESG-Competition)
@@ -182,3 +140,47 @@ each topic clusters and group based on distances (centroids).
 8. Perform feature engineering to improve ESG predictions.
 9. Optimal hyperparameters for the Multi-class Classifier.
 
+# 3.CodeToImpact
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CodeToImpactNew)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CodeToImpactNew)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CodeToImpactNew)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CodeToImpactNew)
+
+## Project Description:
+Building a website that summarizes the respective information:
+1. Investments
+2. Portfolio (Incorporated analytics and past trends)
+3. Consumer markets
+
+
+## Important details
+.env content
+
+NODE_ENV = development
+
+PORT = 8000
+
+MONGO_URI = mongodb uri
+
+JWT_SECRET = abc123
+
+Node version:
+
+Make sure your node version is 16.x
+
+## Development process
+Work on new features on a new branch
+Before commiting, make sure to check if there is linting errors and fixed it
+Create a PR to main branch
+Get one people to review your PR before merging
+to run local development server
+npm install
+
+npm run dev
+
+to run local frontend server
+cd client
+
+npm install
+
+npm run start
