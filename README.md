@@ -14,7 +14,8 @@ MONGO_URI = mongodb uri
 
 JWT_SECRET = abc123
 
-Node version
+Node version:
+
 Make sure your node version is 16.x
 
 ## Development process
